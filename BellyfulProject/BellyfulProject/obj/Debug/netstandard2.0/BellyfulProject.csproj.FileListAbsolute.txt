@@ -1,0 +1,7 @@
+K:\Bellyful\BellyfulProject\BellyfulProject\bin\Debug\netstandard2.0\BellyfulProject.deps.json
+K:\Bellyful\BellyfulProject\BellyfulProject\bin\Debug\netstandard2.0\BellyfulProject.dll
+K:\Bellyful\BellyfulProject\BellyfulProject\obj\Debug\netstandard2.0\BellyfulProject.csprojAssemblyReference.cache
+K:\Bellyful\BellyfulProject\BellyfulProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+K:\Bellyful\BellyfulProject\BellyfulProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+K:\Bellyful\BellyfulProject\BellyfulProject\obj\Debug\netstandard2.0\BellyfulProject.AssemblyInfoInputs.cache
+K:\Bellyful\BellyfulProject\BellyfulProject\obj\Debug\netstandard2.0\BellyfulProject.AssemblyInfo.cs
